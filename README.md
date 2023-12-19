@@ -1,7 +1,10 @@
 <h3 align="center">A passionate data scientist from Kenya</h3>
 
 
-<p align="left"> <a href="https://twitter.com/nittowiti" target="blank"><img src="https://m.imdb.com/title/tt2948202/mediaviewer/rm2859523329" alt="nittowiti" /></a> </p>
+<p align="left">
+  <img src="https://m.imdb.com/title/tt2948202/mediaviewer/rm2859523329" alt="nittowiti" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
