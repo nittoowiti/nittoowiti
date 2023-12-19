@@ -1,5 +1,4 @@
 
-![Uploading WhatsApp Image 2023-12-19 at 14.33.58_0fb3db29.jpg…]()
 
 
 ### Hi , I'm Benitto .I am passionate about Data Science.
