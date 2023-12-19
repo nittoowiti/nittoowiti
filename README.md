@@ -2,13 +2,13 @@
 
 
 <p align="left">
-  <file:///C:/Users/User/Desktop/WhatsApp%20Image%202023-12-19%20at%2014.33.58_0fb3db29.jpg" alt="nittowiti" />
+  <https://miro.medium.com/v2/resize:fit:720/format:webp/0*1QQEICDj7-p6Wtg9" alt="nittowiti" />
 </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nittowiti" target="blank"><img align="center" src="https://m.imdb.com/title/tt2948202/mediaviewer/rm2859523329" alt="nittowiti" height="30" width="40" /></a>
+<a href="https://twitter.com/nittowiti" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*1QQEICDj7-p6Wtg9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
