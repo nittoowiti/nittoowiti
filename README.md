@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nittowiti" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*1QQEICDj7-p6Wtg9" height="30" width="40" /></a>
+<a href="https://twitter.com/nittowiti" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*1QQEICDj7-p6Wtg9" height="300" width="400" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
