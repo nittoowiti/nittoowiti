@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <img src="https://m.imdb.com/title/tt2948202/mediaviewer/rm2859523329" alt="nittowiti" />
+  <file:///C:/Users/User/Desktop/WhatsApp%20Image%202023-12-19%20at%2014.33.58_0fb3db29.jpg" alt="nittowiti" />
 </p>
 
 
